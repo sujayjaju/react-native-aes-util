@@ -76,6 +76,7 @@ dependencies {
     runtimeOnly 'io.jsonwebtoken:jjwt-impl:0.10.5' 
     runtimeOnly('io.jsonwebtoken:jjwt-orgjson:0.10.5') {
         exclude group: 'org.json', module: 'json' //provided by Android natively
+    }
     implementation group: 'commons-codec', name: 'commons-codec', version: '1.11'
     implementation 'com.google.code.gson:gson:2.8.5'
     implementation 'com.facebook.react:react-native:+'  // From node_modules

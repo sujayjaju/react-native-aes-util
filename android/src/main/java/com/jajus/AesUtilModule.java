@@ -5,8 +5,6 @@ import com.facebook.react.bridge.ReactContextBaseJavaModule;
 import com.facebook.react.bridge.ReactMethod;
 import com.facebook.react.bridge.Promise;
 
-package com.reactnative.crypto;
-
 import java.nio.ByteBuffer;
 import java.security.SecureRandom;
 import javax.crypto.Cipher;

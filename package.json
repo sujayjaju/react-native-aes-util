@@ -1,8 +1,8 @@
 {
   "name": "react-native-aes-util",
   "title": "React Native Aes Util",
-  "version": "1.0.3",
-  "description": "TODO",
+  "version": "1.0.4",
+  "description": "AES Decryption module for React Native",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -23,8 +23,8 @@
   "licenseFilename": "LICENSE",
   "readmeFilename": "README.md",
   "peerDependencies": {
-    "react": "^16.8.1",
-    "react-native": ">=0.60.0-rc.0 <1.0.x"
+    "react": "^16.9.0",
+    "react-native": ">=0.61.5 <1.0.x"
   },
   "devDependencies": {
     "react": "^16.9.0",

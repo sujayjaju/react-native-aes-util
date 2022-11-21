@@ -1,7 +1,7 @@
 {
   "name": "react-native-aes-util",
   "title": "React Native Aes Util",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "AES Decryption module for React Native",
   "main": "index.js",
   "scripts": {
